@@ -5,7 +5,6 @@ title: Title
 excerpt: excerpt
 date: 
 hero: ''
-draft: true
 
 ---
 blah
